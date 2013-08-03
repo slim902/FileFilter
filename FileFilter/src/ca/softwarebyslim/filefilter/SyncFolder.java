@@ -23,8 +23,8 @@ public class SyncFolder {
 	static Boolean DEBUG_MODE = true;
 	
 	public final static String DEFAULT_FOLDERNAME = "FileFilter SyncFolder";        // Name of Folder we create
-	String USER_DEFINED_SYNC_FOLDER = "";											// if non null, user chose a location 
-	boolean usingDefaultSyncFolderLocation = true;									// instead of default location
+	String USER_DEFINED_SYNC_FOLDER = "";					        // if non null, user chose a location 
+	boolean usingDefaultSyncFolderLocation = true;					// instead of default location
 	
 	static FilterRuleManager ruleManager;
 	static SyncFolder sf;
