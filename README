@@ -1,5 +1,8 @@
-
-	  My first java application, FileFilter, creates a sync folder on your desktop (by default, user can specifiy a location). The user defines a 
-	set of rules based on filetype that defines where she wants that filetype to be moved to. For example, a user might want her music files
-	synced to dropbox, pictures to box.net, and videos to cubby.com, etc. Well just set up a FilterRule that filters all music files that are
-	moved to your sync file are automatically moved to the destination defined by the FilterRule.
+  My first java application, FileFilter, creates a sync folder on your
+desktop (by default, user can specifiy a location). The user defines a 
+set of rules based on filetype that defines where she wants that
+filetype to be moved to. For example, a user might want her music files
+synced to dropbox, pictures to box.net, and videos to cubby.com, etc.
+Well just set up a FilterRule that filters all music files that are
+moved to your sync file are automatically moved to the destination 
+defined by the FilterRule.
